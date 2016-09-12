@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Created by 1 on 06.09.2016.
+ * Created by Danylo Pidtiagyn on 09.09.2016.
  */
     public class Tasks {
 
